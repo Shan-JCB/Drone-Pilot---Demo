@@ -1,0 +1,5561 @@
+fileFormatVersion: 2
+guid: 9ec6e4aee6e9c7f4598f0e7999f11894
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: r-typesheet2_0
+  - first:
+      213: 21300002
+    second: r-typesheet2_1
+  - first:
+      213: 21300004
+    second: r-typesheet2_2
+  - first:
+      213: 21300006
+    second: r-typesheet2_3
+  - first:
+      213: 21300008
+    second: r-typesheet2_4
+  - first:
+      213: 21300010
+    second: r-typesheet2_5
+  - first:
+      213: 21300012
+    second: r-typesheet2_6
+  - first:
+      213: 21300014
+    second: r-typesheet2_7
+  - first:
+      213: 21300016
+    second: r-typesheet2_8
+  - first:
+      213: 21300018
+    second: r-typesheet2_9
+  - first:
+      213: 21300020
+    second: r-typesheet2_10
+  - first:
+      213: 21300022
+    second: r-typesheet2_11
+  - first:
+      213: 21300024
+    second: r-typesheet2_12
+  - first:
+      213: 21300026
+    second: r-typesheet2_13
+  - first:
+      213: 21300028
+    second: r-typesheet2_14
+  - first:
+      213: 21300030
+    second: r-typesheet2_15
+  - first:
+      213: 21300032
+    second: r-typesheet2_16
+  - first:
+      213: 21300034
+    second: r-typesheet2_17
+  - first:
+      213: 21300036
+    second: r-typesheet2_18
+  - first:
+      213: 21300038
+    second: r-typesheet2_19
+  - first:
+      213: 21300040
+    second: r-typesheet2_20
+  - first:
+      213: 21300042
+    second: r-typesheet2_21
+  - first:
+      213: 21300044
+    second: r-typesheet2_22
+  - first:
+      213: 21300046
+    second: r-typesheet2_23
+  - first:
+      213: 21300048
+    second: r-typesheet2_24
+  - first:
+      213: 21300050
+    second: r-typesheet2_25
+  - first:
+      213: 21300052
+    second: r-typesheet2_26
+  - first:
+      213: 21300054
+    second: r-typesheet2_27
+  - first:
+      213: 21300056
+    second: r-typesheet2_28
+  - first:
+      213: 21300058
+    second: r-typesheet2_29
+  - first:
+      213: 21300060
+    second: r-typesheet2_30
+  - first:
+      213: 21300062
+    second: r-typesheet2_31
+  - first:
+      213: 21300064
+    second: r-typesheet2_32
+  - first:
+      213: 21300066
+    second: r-typesheet2_33
+  - first:
+      213: 21300068
+    second: r-typesheet2_34
+  - first:
+      213: 21300070
+    second: r-typesheet2_35
+  - first:
+      213: 21300072
+    second: r-typesheet2_36
+  - first:
+      213: 21300074
+    second: r-typesheet2_37
+  - first:
+      213: 21300076
+    second: r-typesheet2_38
+  - first:
+      213: 21300078
+    second: r-typesheet2_39
+  - first:
+      213: 21300080
+    second: r-typesheet2_40
+  - first:
+      213: 21300082
+    second: r-typesheet2_41
+  - first:
+      213: 21300084
+    second: r-typesheet2_43
+  - first:
+      213: 21300086
+    second: r-typesheet2_53
+  - first:
+      213: 21300088
+    second: r-typesheet2_56
+  - first:
+      213: 21300090
+    second: r-typesheet2_61
+  - first:
+      213: 21300092
+    second: r-typesheet2_62
+  - first:
+      213: 21300094
+    second: r-typesheet2_63
+  - first:
+      213: 21300096
+    second: r-typesheet2_64
+  - first:
+      213: 21300098
+    second: r-typesheet2_65
+  - first:
+      213: 21300100
+    second: r-typesheet2_70
+  - first:
+      213: 21300102
+    second: r-typesheet2_71
+  - first:
+      213: 21300104
+    second: r-typesheet2_72
+  - first:
+      213: 21300106
+    second: r-typesheet2_75
+  - first:
+      213: 21300108
+    second: r-typesheet2_78
+  - first:
+      213: 21300110
+    second: r-typesheet2_79
+  - first:
+      213: 21300112
+    second: r-typesheet2_80
+  - first:
+      213: 21300114
+    second: r-typesheet2_81
+  - first:
+      213: 21300116
+    second: r-typesheet2_86
+  - first:
+      213: 21300118
+    second: r-typesheet2_92
+  - first:
+      213: 21300120
+    second: r-typesheet2_93
+  - first:
+      213: 21300122
+    second: r-typesheet2_94
+  - first:
+      213: 21300124
+    second: r-typesheet2_95
+  - first:
+      213: 21300126
+    second: r-typesheet2_96
+  - first:
+      213: 21300128
+    second: r-typesheet2_97
+  - first:
+      213: 21300130
+    second: r-typesheet2_98
+  - first:
+      213: 21300132
+    second: r-typesheet2_99
+  - first:
+      213: 21300134
+    second: r-typesheet2_100
+  - first:
+      213: 21300136
+    second: r-typesheet2_101
+  - first:
+      213: 21300138
+    second: r-typesheet2_102
+  - first:
+      213: 21300140
+    second: r-typesheet2_103
+  - first:
+      213: 21300142
+    second: r-typesheet2_104
+  - first:
+      213: 21300144
+    second: r-typesheet2_105
+  - first:
+      213: 21300146
+    second: r-typesheet2_106
+  - first:
+      213: 21300148
+    second: r-typesheet2_107
+  - first:
+      213: 21300150
+    second: r-typesheet2_108
+  - first:
+      213: 21300152
+    second: r-typesheet2_109
+  - first:
+      213: 21300154
+    second: r-typesheet2_110
+  - first:
+      213: 21300156
+    second: r-typesheet2_111
+  - first:
+      213: 21300158
+    second: r-typesheet2_112
+  - first:
+      213: 21300160
+    second: r-typesheet2_113
+  - first:
+      213: 21300162
+    second: r-typesheet2_114
+  - first:
+      213: 21300164
+    second: r-typesheet2_115
+  - first:
+      213: 21300166
+    second: r-typesheet2_116
+  - first:
+      213: 21300168
+    second: r-typesheet2_117
+  - first:
+      213: 21300170
+    second: r-typesheet2_118
+  - first:
+      213: 21300172
+    second: r-typesheet2_119
+  - first:
+      213: 21300174
+    second: r-typesheet2_120
+  - first:
+      213: 21300176
+    second: r-typesheet2_121
+  - first:
+      213: 21300178
+    second: r-typesheet2_122
+  - first:
+      213: 21300180
+    second: r-typesheet2_123
+  - first:
+      213: 21300182
+    second: r-typesheet2_124
+  - first:
+      213: 21300184
+    second: r-typesheet2_125
+  - first:
+      213: 21300186
+    second: r-typesheet2_126
+  - first:
+      213: 21300188
+    second: r-typesheet2_127
+  - first:
+      213: 21300190
+    second: r-typesheet2_128
+  - first:
+      213: 21300192
+    second: r-typesheet2_129
+  - first:
+      213: 21300194
+    second: r-typesheet2_130
+  - first:
+      213: 21300196
+    second: r-typesheet2_131
+  - first:
+      213: 21300198
+    second: r-typesheet2_132
+  - first:
+      213: 21300200
+    second: r-typesheet2_133
+  - first:
+      213: 21300202
+    second: r-typesheet2_134
+  - first:
+      213: 21300204
+    second: r-typesheet2_135
+  - first:
+      213: 21300206
+    second: r-typesheet2_136
+  - first:
+      213: 21300208
+    second: r-typesheet2_137
+  - first:
+      213: 21300210
+    second: r-typesheet2_138
+  - first:
+      213: 21300212
+    second: r-typesheet2_139
+  - first:
+      213: 21300214
+    second: r-typesheet2_140
+  - first:
+      213: 21300216
+    second: r-typesheet2_141
+  - first:
+      213: 21300218
+    second: r-typesheet2_142
+  - first:
+      213: 21300220
+    second: r-typesheet2_143
+  - first:
+      213: 21300222
+    second: r-typesheet2_144
+  - first:
+      213: 21300224
+    second: r-typesheet2_145
+  - first:
+      213: 21300226
+    second: r-typesheet2_146
+  - first:
+      213: 21300228
+    second: r-typesheet2_147
+  - first:
+      213: 21300230
+    second: r-typesheet2_148
+  - first:
+      213: 21300232
+    second: r-typesheet2_149
+  - first:
+      213: 21300234
+    second: r-typesheet2_150
+  - first:
+      213: 21300236
+    second: r-typesheet2_151
+  - first:
+      213: 21300238
+    second: r-typesheet2_152
+  - first:
+      213: 21300240
+    second: r-typesheet2_153
+  - first:
+      213: 21300242
+    second: r-typesheet2_154
+  - first:
+      213: 21300244
+    second: r-typesheet2_155
+  - first:
+      213: 21300246
+    second: r-typesheet2_156
+  - first:
+      213: 21300248
+    second: r-typesheet2_157
+  - first:
+      213: 21300250
+    second: r-typesheet2_158
+  - first:
+      213: 21300252
+    second: r-typesheet2_159
+  - first:
+      213: 21300254
+    second: r-typesheet2_160
+  - first:
+      213: 21300256
+    second: r-typesheet2_161
+  - first:
+      213: 21300258
+    second: r-typesheet2_162
+  - first:
+      213: 21300260
+    second: r-typesheet2_163
+  - first:
+      213: 21300262
+    second: r-typesheet2_164
+  - first:
+      213: 21300264
+    second: r-typesheet2_165
+  - first:
+      213: 21300266
+    second: r-typesheet2_166
+  - first:
+      213: 21300268
+    second: r-typesheet2_167
+  - first:
+      213: 21300270
+    second: r-typesheet2_168
+  - first:
+      213: 21300272
+    second: r-typesheet2_169
+  - first:
+      213: 21300274
+    second: r-typesheet2_170
+  - first:
+      213: 21300276
+    second: r-typesheet2_171
+  - first:
+      213: 21300278
+    second: r-typesheet2_172
+  - first:
+      213: 21300280
+    second: r-typesheet2_173
+  - first:
+      213: 21300282
+    second: r-typesheet2_174
+  - first:
+      213: 21300284
+    second: r-typesheet2_175
+  - first:
+      213: 21300286
+    second: r-typesheet2_176
+  - first:
+      213: 21300288
+    second: r-typesheet2_177
+  - first:
+      213: 21300290
+    second: r-typesheet2_178
+  - first:
+      213: 21300292
+    second: r-typesheet2_179
+  - first:
+      213: 21300294
+    second: r-typesheet2_180
+  - first:
+      213: 21300296
+    second: r-typesheet2_181
+  - first:
+      213: 21300298
+    second: r-typesheet2_182
+  - first:
+      213: 21300300
+    second: r-typesheet2_183
+  - first:
+      213: 21300302
+    second: r-typesheet2_184
+  - first:
+      213: 21300304
+    second: r-typesheet2_185
+  - first:
+      213: 21300306
+    second: r-typesheet2_186
+  - first:
+      213: 21300308
+    second: r-typesheet2_187
+  - first:
+      213: 21300310
+    second: r-typesheet2_188
+  - first:
+      213: 21300312
+    second: r-typesheet2_189
+  - first:
+      213: 21300314
+    second: r-typesheet2_190
+  - first:
+      213: 21300316
+    second: r-typesheet2_191
+  - first:
+      213: 21300318
+    second: r-typesheet2_192
+  - first:
+      213: 21300320
+    second: r-typesheet2_193
+  - first:
+      213: 21300322
+    second: r-typesheet2_194
+  - first:
+      213: 21300324
+    second: r-typesheet2_195
+  - first:
+      213: 21300326
+    second: r-typesheet2_196
+  - first:
+      213: 21300328
+    second: r-typesheet2_197
+  - first:
+      213: 21300330
+    second: r-typesheet2_198
+  - first:
+      213: 21300332
+    second: r-typesheet2_199
+  - first:
+      213: 21300334
+    second: r-typesheet2_200
+  - first:
+      213: 21300336
+    second: r-typesheet2_201
+  - first:
+      213: 21300338
+    second: r-typesheet2_202
+  - first:
+      213: 21300340
+    second: r-typesheet2_203
+  - first:
+      213: 21300342
+    second: r-typesheet2_204
+  - first:
+      213: 21300344
+    second: r-typesheet2_205
+  - first:
+      213: 21300346
+    second: r-typesheet2_206
+  - first:
+      213: 21300348
+    second: r-typesheet2_207
+  - first:
+      213: 21300350
+    second: r-typesheet2_208
+  - first:
+      213: 21300352
+    second: r-typesheet2_209
+  - first:
+      213: 21300354
+    second: r-typesheet2_210
+  - first:
+      213: 21300356
+    second: r-typesheet2_211
+  - first:
+      213: 21300358
+    second: r-typesheet2_212
+  - first:
+      213: 21300360
+    second: r-typesheet2_213
+  - first:
+      213: 21300362
+    second: r-typesheet2_214
+  - first:
+      213: 21300364
+    second: r-typesheet2_215
+  - first:
+      213: 21300366
+    second: r-typesheet2_216
+  - first:
+      213: 21300368
+    second: r-typesheet2_217
+  - first:
+      213: 21300370
+    second: r-typesheet2_218
+  - first:
+      213: 21300372
+    second: r-typesheet2_219
+  - first:
+      213: 21300374
+    second: r-typesheet2_220
+  - first:
+      213: 21300376
+    second: r-typesheet2_221
+  - first:
+      213: 21300378
+    second: r-typesheet2_222
+  - first:
+      213: 21300380
+    second: r-typesheet2_223
+  - first:
+      213: 21300382
+    second: r-typesheet2_224
+  - first:
+      213: 21300384
+    second: r-typesheet2_225
+  - first:
+      213: 21300386
+    second: r-typesheet2_226
+  - first:
+      213: 21300388
+    second: r-typesheet2_227
+  - first:
+      213: 21300390
+    second: r-typesheet2_228
+  - first:
+      213: 21300392
+    second: r-typesheet2_229
+  - first:
+      213: 21300394
+    second: r-typesheet2_230
+  - first:
+      213: 21300396
+    second: r-typesheet2_231
+  - first:
+      213: 21300398
+    second: r-typesheet2_232
+  - first:
+      213: 21300400
+    second: r-typesheet2_233
+  - first:
+      213: 21300402
+    second: r-typesheet2_234
+  - first:
+      213: 21300404
+    second: r-typesheet2_235
+  - first:
+      213: 21300406
+    second: r-typesheet2_236
+  - first:
+      213: 21300408
+    second: r-typesheet2_237
+  - first:
+      213: 21300410
+    second: r-typesheet2_238
+  - first:
+      213: 21300412
+    second: r-typesheet2_239
+  - first:
+      213: 21300414
+    second: r-typesheet2_240
+  - first:
+      213: 21300416
+    second: r-typesheet2_241
+  - first:
+      213: 21300418
+    second: r-typesheet2_242
+  - first:
+      213: 21300420
+    second: r-typesheet2_243
+  - first:
+      213: 21300422
+    second: r-typesheet2_244
+  - first:
+      213: 21300424
+    second: r-typesheet2_245
+  - first:
+      213: 21300426
+    second: r-typesheet2_246
+  - first:
+      213: 21300428
+    second: r-typesheet2_247
+  - first:
+      213: 21300430
+    second: r-typesheet2_248
+  - first:
+      213: 21300432
+    second: r-typesheet2_249
+  - first:
+      213: 21300434
+    second: r-typesheet2_250
+  - first:
+      213: 21300436
+    second: r-typesheet2_251
+  - first:
+      213: 21300438
+    second: r-typesheet2_252
+  - first:
+      213: 21300440
+    second: r-typesheet2_253
+  - first:
+      213: 21300442
+    second: r-typesheet2_254
+  - first:
+      213: 21300444
+    second: r-typesheet2_255
+  - first:
+      213: 21300446
+    second: r-typesheet2_256
+  - first:
+      213: 21300448
+    second: r-typesheet2_257
+  - first:
+      213: 21300450
+    second: r-typesheet2_258
+  - first:
+      213: 21300452
+    second: r-typesheet2_259
+  - first:
+      213: 21300454
+    second: r-typesheet2_42
+  - first:
+      213: 21300456
+    second: r-typesheet2_44
+  - first:
+      213: 21300458
+    second: r-typesheet2_45
+  - first:
+      213: 21300460
+    second: r-typesheet2_47
+  - first:
+      213: 21300462
+    second: r-typesheet2_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: r-typesheet2_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 835
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b127d6bfe9d372b4a82e6829ce8ec6dc
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 835
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc5e3f79731dc145bf589225315c0b3
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 841
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a66cbceac93d3489a7fa33d30e0419
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 844
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8539b489a00b36c47984431a98d62544
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 845
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb616d75a621147a4e03d910c50936
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 846
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abe4f3708524a54086c7fea94be35f8
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 846
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0468701e9550440884a40ecd09edd5
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 845
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684d7152c792d0d4b82f35b705c2f2b1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 844
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b55ee2bade90c4f9bcc6e3a01c34d3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 841
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21e3c108fcca7418b361cc560fc78c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 835
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d0bd98ea57f7547ac7b3c3f9e1ab68
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 835
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1ad57c085baaf4cb315ea0098c05fb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa758c01cf6d114eb59c422c8ecc0d1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3944d3d0c1bf940b168642045c3ab6
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886526069d193c449dae7795f0ee79e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eaa5037891d944bbac3834c4290d82
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b549428fc1e5fe44b5563aad7fe92c5
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38abb11a2b804b44ba7cfad17be3b9f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96636a458c8d5345a7b8efd19d16dff
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e62d6e0ffee3b84187c727342275f13
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5330bdc9286254ab3bdc59aba4174d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a915919cebad47b521026300758c3
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecab02d8183bfa498cf7403a51cc629
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 815
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e67a781e854246bfc3b36ecf6ae4f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 803
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f036d4fe09f1a142b51463076f87699
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 803
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2b91a0adfd0bd4cadac4e7f18b424a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 775
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a6b85ab3a99047a6654aafd117fa7
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 777
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae1a353652f5f24a823ee507d6155cf
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 778
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61923acb828494d83f506cd98f1de2
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 778
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0168715c73e9142b07f99b77d22e77
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 778
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2d9cdd4b95c94cba9ba2b8b6828af
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 777
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4ea302b9f27994e94eab30aebb6ff6
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 777
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1dab11ac0d7a1488fb393a460b4551
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 778
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7befd2e8f6868dc42b37dc40f2fe6e2f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 778
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77ad0733372dd41a0df670687d1361
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 778
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd155c71ff8e1498c38af470ffc479
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_36
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 777
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400510a6fdf0d94089302bbe7ce8f30
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_37
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 775
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fdf290a1f79da42997afed90ff477b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 762
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b97ec601acd9448085712a427f694
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 764
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7bdeba26306d4dab6a4451cea00ee
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 764
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33af9c78453eea4ea1213122d88e425
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 762
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5655b7bb52354da23f851dec1a669
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 729
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b5acb3f29d73469d883a3d1b8cf33
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_53
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 728
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9263a347bd2934ab4fda5b8feb730b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 729
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df59425a24f794c43b9657ec8be52f8e
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 735
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427faaa6967bb447aa6b630dd0b622a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 734
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48836636c8ebd4cb89e2e1ba95fc01
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 735
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d670ca0b7a37341a48b8a1ee5db3dc
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 734
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c09229d068a3d4f96df222460285b7
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_65
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 733
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcedb54daaae7124fb19353cc24ae711
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_70
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 728
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bace9899b691d49935a31ae2c126ca
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_71
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 728
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56177237589401f47bb526205ff9b6c4
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_72
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 728
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f2be64425b4a4b86f3d18a172b583
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 733
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29774f9a4b803f4faa3b58cb9affc3f
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_78
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 734
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a4036225a5f84daf25e1965045f7d
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_79
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 735
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd3ac924835925409f7ccd493b9ce90
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_80
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 734
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a3e055ca9ad7f4999e67c8e3a13cec
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_81
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 735
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76825a9a5505cce45a492130ba5064de
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_86
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 738
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3cc8103da09164293cc490648f7d47
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 698
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8f8a38fef7b940ac92d6832f5d2a1
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_93
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 698
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606eab0ade4e8c94bb88759cfdeeb496
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 665
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361a8835bf65ee4f85d4cefa941ca78
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 665
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ced028fe66504fb21dd9bb141a441
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_96
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 665
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c66988f405d134ab3f2ef466b51aa1
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_97
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 665
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1230ba726e876084da3644e7d90b8aa9
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 632
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d92218082331048ae432fda86ce0d6
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 635
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c716f0c8e4735428558927f357e34f
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_103
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3b3ecfa335cb49b38484793bb23b0
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_105
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ffd4a80e758874688272f92d6f7e21
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 632
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509600094567cb479daf65ca099968a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_107
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 639
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277978c6e1542084381cd5e406d28639
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_108
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f590a736ec5e1884e909c9fb381b3f93
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_110
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca13c110f9fe8e4f87ecff5dcdd9218
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_113
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 635
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e4a7454814914cb6e6787130571b2
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_115
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 632
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca246981036c76748b1a84cbc276d84d
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_121
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4db49d86adf3f4e999c2a7f33584ba
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 599
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5937d662eeba22a46861d9c88b010e66
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_127
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 599
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2189eb141166f954a9ac19e16f55ebf7
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_128
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 599
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2fa9a40220164d9069633e4be748a
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_129
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 599
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec31b62d3d21ef64eb846e3df8e3a302
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_130
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 575
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34c0277ff0e454284311ccd4b5bf25
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_131
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 575
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e125b8abe19e7874d940873a8f5b7a13
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_132
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 549
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2799d4efd1a30ed44beae2a6a1e47aad
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 549
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221875238b77d443ba36ceaf164bb39
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_134
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb854a374201141889dab5795bb2d7
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_135
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374bf18e76c973408c053059fe4c146
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_136
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8b9b51fe3db744a53e1db8f257f29
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_137
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b968a5e88adb5040b9eafb483dfb326
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_138
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd6216dd1c66943bcb2aafbc09bbc8
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_139
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 536
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618a9b7ba3deac409d0015a4ffebe6b
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 536
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649bc1a13bb3d25439352c53d7b7f626
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_141
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 536
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78832ee020251241bfc16362a49caee
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_142
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 536
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd302b1275ff39478e9272bc07845ac
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_143
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 536
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae03ff722ab43b45b5b53346ba99c0b
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_144
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 536
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32f3f6ebe6c35a45be1713bc722e16b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_145
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f97380a7ec1494aa56832244c73f66
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_146
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929002577479c24ebdeba559f252818
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_147
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f94954a6c2445e4791a5e2bf30a1ebc
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_148
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59571c901c39e429c740d717218683
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_149
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 536
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98b30340596e54cb2be3877455b01c
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_150
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 549
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd7aecf9c062aa40b92d1895479e3c3
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_151
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 549
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c9b9f17661ed4ea38043d6a47014e
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_152
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 532
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f17c84a0a8f24e88b5a3f1237778e
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_153
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 532
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f686cf115cc78c48ab330a1fe7b418b
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_154
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 532
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d47951f2d4bfa7429ad983ea1d14c6d
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_155
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 532
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc7a276f5d2316489114c4e13b2a95a
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_156
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 494
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b93409d525254da48d537fbba8cd9
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_157
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 497
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb5512937692004c9908af0fc946a41
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_158
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 494
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f2c8d6aeba704c905ba6f531d3ac2
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_159
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 492
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf147da0f956a42429f3bdb5d4cfbd52
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_160
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 492
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05b3bd979678e84d9151948990bf282
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_161
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 494
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba17a102673f94095938c1077cd2a3
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_162
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 497
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2177ff77152752247acd48c829e9c2ca
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_163
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 494
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf534b434b84474699e25830b2fc106
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_164
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 463
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775367e28ed0fd34db044394019ebde9
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_165
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 465
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41cac19e972eec429865058c12b4bf1
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_166
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 463
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47edd2d81594f0c4a8d50b78b109f46f
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_167
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 461
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ac92315aded04096df69861a98dd9
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_168
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 461
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4973c863dca74442a78c4e6d5c73e60
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_169
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 463
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455185eb2d6a024f9999b347446e10d
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_170
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 465
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f205033397da943a313c10f28dfb6b
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_171
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 463
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06582cd67d5ceba42ae26bf48f4b0cd5
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_172
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 435
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56d8e8021b21b41a1dd0be57c61599
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_173
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 437
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03eb76e808a3104c994be59ba138040
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_174
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 435
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ecf52517481174e8e1dbffc1189b60
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_175
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 433
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060650c43ef8e44590382380139122d
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_176
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 433
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f744f98f981d4ba4342daed06b9fd
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 435
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99745ccb72a40746a4caedac424550a
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_178
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 437
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3839d9292c06c3848a5b0f26f76abee0
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_179
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 435
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d505cbadd26e6e449ce11f9152c2d7a
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_180
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 416
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfffc90ac46e248488f34019ce58865b
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_181
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 415
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e6c22979453c4a89b6b214a0b3bcc
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_182
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 418
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a646df0bf333f2439e410efbb1e58a0
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_183
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 420
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a936d2742918264fa5b9afa3e02440c
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_184
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 420
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268eec2954228f942a11e03d74ff69d1
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_185
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 418
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c0fd91686a3b41a402bf16bcad46b
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_186
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 415
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2dac01b79d5144a7e75e2bdfb8c54
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_187
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235fdf657273a34ab1d5ee95541bf29
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_188
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e108498228924187e5abfd11e2aa1
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_189
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1476fa5c43ac347b04179127062b4b
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_190
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27696409e027134283fe0c46a387a79
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_191
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd1a36d28c7f0747bd4b31f3343d71c
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_192
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8cbf75f3531143a42b8e8c5655f8c
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_193
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6766c08298dd2604199df2ed736645ec
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_194
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65f0a7c03e87704791505843ac628fb
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_195
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 398
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03805c98bb1b10744a43b87cd54646b9
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_196
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 364
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd36c65b6d8e164898a0d924af6c10a
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_197
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 364
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0334a67b5462b1f418f793b7100f90ba
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_198
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 364
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a78213572f81945a165e41d7f9111f
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_199
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 364
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4acb78c946612e41bd00d29627c7032
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_200
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 364
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd39a7c8726d9644ac792b7bff30c35
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_201
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 364
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b16cfd219a1a4da6975e47f10f971
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_202
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 364
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9d1d08d9bdb148ab6209bd22d75e9
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_203
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 364
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74887f3fdce9bd4dbd04504c6e19818
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_204
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 330
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875072071bbc88a4f9a217bd4cb2dd5e
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_205
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 330
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471521d9f26babd4eb0bcd8142f0f388
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_206
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 330
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712c878b3c4495468763c9bde394f50
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_207
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 330
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6ab4230b1ce44ba1de533cdc2f022
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_208
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 330
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b43ac261f4f2a042a9c656a7f498a81
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_209
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 330
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433bc2091b6b800498d50b4a692e95ff
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_210
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 330
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac957f3c566ece648a83842951e06df3
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_211
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 330
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71caa16d1fdfca64c84b753c4804830b
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_212
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 278
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f764ae7efbd048950941f0510a021
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_213
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 273
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded425cd471bda34a8deb172b2e2fc9e
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_214
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 269
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534048da3315da4eaf0d1416cc71e9d
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_215
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 268
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44fdefc0f3a1204192da282456c1bae
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_216
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 268
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925cdc0058fb2e942be7deebd563c875
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_217
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 268
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc281fedb1e1d428185bfad726234d
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_218
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 268
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa16bb95c6ff714bae449165fd80560
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_219
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 268
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e674a7b20bc404b927b8b5d867a1fb
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_220
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 268
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13dedfa5efb43d41b802ffbef22d52b
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_221
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 269
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140886a426d9a724c82d6baa565b56b5
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_222
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 273
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c423c0a31b2bcc4dac7c8e446262ce8
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_223
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 278
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e545bd54c733b80499ed31d67f127ac3
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_224
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 202
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a55627e71b1848a6dd5c80c8c8906
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_225
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 202
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73726c702786a34b90d3da414a2b9f6
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_226
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 202
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02e107581b7c44e9ea869af7f1a952
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_227
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 202
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab49f91d20d93a4b8caaa6d5bf552de
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_228
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 202
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d56a4284d4c0042aab97a9cc154bdd
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_229
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 202
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3078f58a6a6134680ff46e2faea5f2
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_230
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 202
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b3aef4adfb7e4ba3e65375d7e657a
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_231
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 202
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b9f3b5c7684c42aa4172f8323e02b
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_232
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed510a6dd5176fd468544bcefe342f7a
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_233
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d4fe8932215b7438d810818d2af175
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_234
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 138
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a841a8b5546df5429b661933c5a2fd3
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_235
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 140
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f6f04270eb8344a5044a7d55c02aa
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_236
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 140
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647e77982525ba45b6b1d9f0392808d
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_237
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 138
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1eafd0fd7dcb4e8ba545aae4a6e7f
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_238
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 136
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf0f00838049cf498dc14cbb24786da
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_239
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 136
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49dd07bbfa27f148bbf490a4fc106ef
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_240
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c085a0abb94d346a468938c13c5a81
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_241
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 84
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbcf83440b0139488b71a4e7767e8a7
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_242
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c3c6d1e69a6b44ca61480250a6c9de
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_243
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d491a22b869b49b152648f9c59adf
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_244
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 84
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c5e81ead6b154e82e28d9dd4a3794
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_245
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 84
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6816cba8884e488fb9e3ff7990eea
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_246
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 84
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3eaf0a9946ff64a932075d8284860b
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_247
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 77
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03e22c5ceec83428391a0ef3d7916e
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_248
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 34
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b551b9c4021b4995baf3cb9251dfc
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_249
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ab2b552bce564e880c9116a2d7860
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_250
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29501b9bb9ee1d14a8607e688cb573ac
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_251
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f927c3649cfe04baa030058c8d37bb
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_252
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 34
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9892e72ae034d48805520e2b4ca2d6
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_253
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 34
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef02438aac96f43804d0dd925acc38
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_254
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 34
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69724a62706541b41a211c7ee1c4839a
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_255
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 34
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546da1b5d7371344b4ea86080d44268
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_256
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ae1c4e57c8c7b4ba97dc83ba11e2a1
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_257
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d574739f308a4d987da1b93473767
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_258
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373ce0f8788d064198c8ce8cc5f8c54
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_259
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7897e038754d74e85115a18f7d5d84
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 632
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce22b485f68854ca08d54a2532ea4c
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_44
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 639
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8074c541caaf504c9e217a8e15dbcac
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 639
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8062ba503e3bdd43a658554a781a239
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_47
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 639
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151efb61462846f48b972304f8ff7999
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r-typesheet2_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5445243c4a5a842879d348ab8ea73f
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4fc7b83f87297d948a7ae105fabf4575
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      r-typesheet2_0: 21300000
+      r-typesheet2_1: 21300002
+      r-typesheet2_10: 21300020
+      r-typesheet2_100: 21300134
+      r-typesheet2_103: 21300140
+      r-typesheet2_105: 21300144
+      r-typesheet2_106: 21300146
+      r-typesheet2_107: 21300148
+      r-typesheet2_108: 21300150
+      r-typesheet2_11: 21300022
+      r-typesheet2_110: 21300154
+      r-typesheet2_113: 21300160
+      r-typesheet2_115: 21300164
+      r-typesheet2_12: 21300024
+      r-typesheet2_121: 21300176
+      r-typesheet2_126: 21300186
+      r-typesheet2_127: 21300188
+      r-typesheet2_128: 21300190
+      r-typesheet2_129: 21300192
+      r-typesheet2_13: 21300026
+      r-typesheet2_130: 21300194
+      r-typesheet2_131: 21300196
+      r-typesheet2_132: 21300198
+      r-typesheet2_133: 21300200
+      r-typesheet2_134: 21300202
+      r-typesheet2_135: 21300204
+      r-typesheet2_136: 21300206
+      r-typesheet2_137: 21300208
+      r-typesheet2_138: 21300210
+      r-typesheet2_139: 21300212
+      r-typesheet2_14: 21300028
+      r-typesheet2_140: 21300214
+      r-typesheet2_141: 21300216
+      r-typesheet2_142: 21300218
+      r-typesheet2_143: 21300220
+      r-typesheet2_144: 21300222
+      r-typesheet2_145: 21300224
+      r-typesheet2_146: 21300226
+      r-typesheet2_147: 21300228
+      r-typesheet2_148: 21300230
+      r-typesheet2_149: 21300232
+      r-typesheet2_15: 21300030
+      r-typesheet2_150: 21300234
+      r-typesheet2_151: 21300236
+      r-typesheet2_152: 21300238
+      r-typesheet2_153: 21300240
+      r-typesheet2_154: 21300242
+      r-typesheet2_155: 21300244
+      r-typesheet2_156: 21300246
+      r-typesheet2_157: 21300248
+      r-typesheet2_158: 21300250
+      r-typesheet2_159: 21300252
+      r-typesheet2_16: 21300032
+      r-typesheet2_160: 21300254
+      r-typesheet2_161: 21300256
+      r-typesheet2_162: 21300258
+      r-typesheet2_163: 21300260
+      r-typesheet2_164: 21300262
+      r-typesheet2_165: 21300264
+      r-typesheet2_166: 21300266
+      r-typesheet2_167: 21300268
+      r-typesheet2_168: 21300270
+      r-typesheet2_169: 21300272
+      r-typesheet2_17: 21300034
+      r-typesheet2_170: 21300274
+      r-typesheet2_171: 21300276
+      r-typesheet2_172: 21300278
+      r-typesheet2_173: 21300280
+      r-typesheet2_174: 21300282
+      r-typesheet2_175: 21300284
+      r-typesheet2_176: 21300286
+      r-typesheet2_177: 21300288
+      r-typesheet2_178: 21300290
+      r-typesheet2_179: 21300292
+      r-typesheet2_18: 21300036
+      r-typesheet2_180: 21300294
+      r-typesheet2_181: 21300296
+      r-typesheet2_182: 21300298
+      r-typesheet2_183: 21300300
+      r-typesheet2_184: 21300302
+      r-typesheet2_185: 21300304
+      r-typesheet2_186: 21300306
+      r-typesheet2_187: 21300308
+      r-typesheet2_188: 21300310
+      r-typesheet2_189: 21300312
+      r-typesheet2_19: 21300038
+      r-typesheet2_190: 21300314
+      r-typesheet2_191: 21300316
+      r-typesheet2_192: 21300318
+      r-typesheet2_193: 21300320
+      r-typesheet2_194: 21300322
+      r-typesheet2_195: 21300324
+      r-typesheet2_196: 21300326
+      r-typesheet2_197: 21300328
+      r-typesheet2_198: 21300330
+      r-typesheet2_199: 21300332
+      r-typesheet2_2: 21300004
+      r-typesheet2_20: 21300040
+      r-typesheet2_200: 21300334
+      r-typesheet2_201: 21300336
+      r-typesheet2_202: 21300338
+      r-typesheet2_203: 21300340
+      r-typesheet2_204: 21300342
+      r-typesheet2_205: 21300344
+      r-typesheet2_206: 21300346
+      r-typesheet2_207: 21300348
+      r-typesheet2_208: 21300350
+      r-typesheet2_209: 21300352
+      r-typesheet2_21: 21300042
+      r-typesheet2_210: 21300354
+      r-typesheet2_211: 21300356
+      r-typesheet2_212: 21300358
+      r-typesheet2_213: 21300360
+      r-typesheet2_214: 21300362
+      r-typesheet2_215: 21300364
+      r-typesheet2_216: 21300366
+      r-typesheet2_217: 21300368
+      r-typesheet2_218: 21300370
+      r-typesheet2_219: 21300372
+      r-typesheet2_22: 21300044
+      r-typesheet2_220: 21300374
+      r-typesheet2_221: 21300376
+      r-typesheet2_222: 21300378
+      r-typesheet2_223: 21300380
+      r-typesheet2_224: 21300382
+      r-typesheet2_225: 21300384
+      r-typesheet2_226: 21300386
+      r-typesheet2_227: 21300388
+      r-typesheet2_228: 21300390
+      r-typesheet2_229: 21300392
+      r-typesheet2_23: 21300046
+      r-typesheet2_230: 21300394
+      r-typesheet2_231: 21300396
+      r-typesheet2_232: 21300398
+      r-typesheet2_233: 21300400
+      r-typesheet2_234: 21300402
+      r-typesheet2_235: 21300404
+      r-typesheet2_236: 21300406
+      r-typesheet2_237: 21300408
+      r-typesheet2_238: 21300410
+      r-typesheet2_239: 21300412
+      r-typesheet2_24: 21300048
+      r-typesheet2_240: 21300414
+      r-typesheet2_241: 21300416
+      r-typesheet2_242: 21300418
+      r-typesheet2_243: 21300420
+      r-typesheet2_244: 21300422
+      r-typesheet2_245: 21300424
+      r-typesheet2_246: 21300426
+      r-typesheet2_247: 21300428
+      r-typesheet2_248: 21300430
+      r-typesheet2_249: 21300432
+      r-typesheet2_25: 21300050
+      r-typesheet2_250: 21300434
+      r-typesheet2_251: 21300436
+      r-typesheet2_252: 21300438
+      r-typesheet2_253: 21300440
+      r-typesheet2_254: 21300442
+      r-typesheet2_255: 21300444
+      r-typesheet2_256: 21300446
+      r-typesheet2_257: 21300448
+      r-typesheet2_258: 21300450
+      r-typesheet2_259: 21300452
+      r-typesheet2_26: 21300052
+      r-typesheet2_27: 21300054
+      r-typesheet2_28: 21300056
+      r-typesheet2_29: 21300058
+      r-typesheet2_3: 21300006
+      r-typesheet2_30: 21300060
+      r-typesheet2_31: 21300062
+      r-typesheet2_32: 21300064
+      r-typesheet2_33: 21300066
+      r-typesheet2_34: 21300068
+      r-typesheet2_35: 21300070
+      r-typesheet2_36: 21300072
+      r-typesheet2_37: 21300074
+      r-typesheet2_38: 21300076
+      r-typesheet2_39: 21300078
+      r-typesheet2_4: 21300008
+      r-typesheet2_40: 21300080
+      r-typesheet2_41: 21300082
+      r-typesheet2_42: 21300454
+      r-typesheet2_43: 21300084
+      r-typesheet2_44: 21300456
+      r-typesheet2_45: 21300458
+      r-typesheet2_46: 21300462
+      r-typesheet2_47: 21300460
+      r-typesheet2_5: 21300010
+      r-typesheet2_53: 21300086
+      r-typesheet2_56: 21300088
+      r-typesheet2_6: 21300012
+      r-typesheet2_61: 21300090
+      r-typesheet2_62: 21300092
+      r-typesheet2_63: 21300094
+      r-typesheet2_64: 21300096
+      r-typesheet2_65: 21300098
+      r-typesheet2_7: 21300014
+      r-typesheet2_70: 21300100
+      r-typesheet2_71: 21300102
+      r-typesheet2_72: 21300104
+      r-typesheet2_75: 21300106
+      r-typesheet2_78: 21300108
+      r-typesheet2_79: 21300110
+      r-typesheet2_8: 21300016
+      r-typesheet2_80: 21300112
+      r-typesheet2_81: 21300114
+      r-typesheet2_86: 21300116
+      r-typesheet2_9: 21300018
+      r-typesheet2_92: 21300118
+      r-typesheet2_93: 21300120
+      r-typesheet2_94: 21300122
+      r-typesheet2_95: 21300124
+      r-typesheet2_96: 21300126
+      r-typesheet2_97: 21300128
+      r-typesheet2_98: 21300130
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
