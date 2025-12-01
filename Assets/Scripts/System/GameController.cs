@@ -11,6 +11,8 @@ public class GameController : MonoBehaviour
     [SerializeField] GameObject retryButton;
     [SerializeField] GameObject quitButton;
     [SerializeField] Player player;
+    [Header("Player UI")]
+    [SerializeField] PlayerHealthUI playerHealthUI;
     [SerializeField] CameraScroller mainCamera;
     [SerializeField] BackgroundScroller background;
 
@@ -41,6 +43,12 @@ public class GameController : MonoBehaviour
     {
         enemySpawner = FindObjectOfType<EnemySpawner>();
         scoreText.SetText(score.ToString());
+        // If a Player instance is assigned in inspector and the player HUD is available,
+        // update the hud with the player's current health.
+        if (player != null && playerHealthUI != null)
+        {
+            playerHealthUI.UpdateHealth(player.GetHealth(), player.GetMaxHealth());
+        }
     }
 
     public void AddToScore(int enemyPoints)
@@ -98,5 +106,14 @@ public class GameController : MonoBehaviour
     public void PlayerLifeController()
     {
 
+    }
+
+    // Called by Player instances to update the HUD
+    public void UpdatePlayerHealth(float current, float max)
+    {
+        if (playerHealthUI != null)
+        {
+            playerHealthUI.UpdateHealth(current, max);
+        }
     }
 }

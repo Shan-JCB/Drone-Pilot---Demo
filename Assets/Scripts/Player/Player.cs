@@ -10,6 +10,8 @@ public class Player : MonoBehaviour
     [SerializeField] float padding = 0.5f;
     [SerializeField] float moveSpeed = 10f;
     [SerializeField] float health = 300f;
+    // store max health to show HUD
+    float maxHealth;
 
     [Header("Projectile")]
     [SerializeField] GameObject laserPrefab;
@@ -64,6 +66,13 @@ public class Player : MonoBehaviour
         waypoints = new List<Transform>();
         GetWaypoints();
         transform.position = waypoints[waypointIndex].transform.position;
+
+        // store max health and initialize HUD
+        maxHealth = health;
+        if (gameController != null)
+        {
+            gameController.UpdatePlayerHealth(health, maxHealth);
+        }
 
         // subscribe to battery depleted event (optional)
         if (batterySystem != null)
@@ -287,6 +296,12 @@ public class Player : MonoBehaviour
             damageDealer.Hit();
         }
 
+        // update health on HUD
+        if (gameController != null)
+        {
+            gameController.UpdatePlayerHealth(Mathf.Max(0f, health), maxHealth);
+        }
+
         if (health <= 0)
         {
             Die();
@@ -303,6 +318,15 @@ public class Player : MonoBehaviour
 
         playerAnimation.SetBool("Die", true);
         Destroy(gameObject, 0.5f);
+        // ensure HUD shows zero
+        if (gameController != null)
+        {
+            gameController.UpdatePlayerHealth(0f, maxHealth);
+        }
         gameController.GameOver();
     }
+
+    // public getters used by GameController for HUD initialization
+    public float GetHealth() => health;
+    public float GetMaxHealth() => maxHealth;
 }

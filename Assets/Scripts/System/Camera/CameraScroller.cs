@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class CameraScroller : MonoBehaviour
 {
-    [SerializeField] float CameraScrollSpeed = 0.5f;
+    [SerializeField] float CameraScrollSpeed = 0.5f; // base units per second — tweak in inspector
+    [Header("Tuning")]
+    [Tooltip("Global multiplier to quickly speed up/slow down the camera for testing or difficulty scaling.")]
+    [SerializeField] float speedMultiplier = 1f;
     Vector3 velocity;
     bool stop = false;
 
@@ -36,7 +39,13 @@ public class CameraScroller : MonoBehaviour
 
     private void Roll()
     {
-        transform.position += velocity * Time.deltaTime;
+        transform.position += velocity * Time.deltaTime * speedMultiplier;
+    }
+
+    // runtime API to change the scroll speed multiplier
+    public void SetSpeedMultiplier(float multiplier)
+    {
+        speedMultiplier = Mathf.Max(0f, multiplier);
     }
 
     public void Reset()

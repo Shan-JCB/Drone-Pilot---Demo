@@ -585,7 +585,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Insert a Coin
+  m_text: START
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ca20e36e2b9cd374680be2cf6d5a1fde, type: 2}
   m_sharedMaterial: {fileID: 21812246470039738, guid: ca20e36e2b9cd374680be2cf6d5a1fde,
@@ -828,7 +828,7 @@ RectTransform:
   m_GameObject: {fileID: 1440040208}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.47498, y: 0.47902986, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 481203979}
@@ -837,7 +837,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000011444, y: 18.1}
+  m_AnchoredPosition: {x: 0.000023937, y: -13.9}
   m_SizeDelta: {x: 193.06, y: 49.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1440040210
@@ -1223,7 +1223,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000053406, y: -37.2}
+  m_AnchoredPosition: {x: 0.000053406, y: -50.2}
   m_SizeDelta: {x: 193.06, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1958266519

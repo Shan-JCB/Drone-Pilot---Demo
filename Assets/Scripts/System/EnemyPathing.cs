@@ -12,8 +12,11 @@ public class EnemyPathing : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        waypoints = waveConfig.GetWaypoints();
-        transform.position = waypoints[waypointIndex].transform.position;
+        // Do minimal work here. waveConfig may be assigned after Instantiate via SetWaveConfig.
+        if (waveConfig != null)
+        {
+            InitializeFromConfig();
+        }
     }
 
     // Update is called once per frame
@@ -25,6 +28,29 @@ public class EnemyPathing : MonoBehaviour
     public void SetWaveConfig(WaveConfig waveConfig)
     {
         this.waveConfig = waveConfig;
+        InitializeFromConfig();
+    }
+
+    void InitializeFromConfig()
+    {
+        if (waveConfig == null)
+        {
+            Debug.LogWarning("EnemyPathing: SetWaveConfig called with null WaveConfig.");
+            waypoints = new List<Transform>();
+            return;
+        }
+
+        waypoints = waveConfig.GetWaypoints();
+        waypointIndex = 0;
+        if (waypoints != null && waypoints.Count > 0)
+        {
+            transform.position = waypoints[waypointIndex].transform.position;
+        }
+        else
+        {
+            Debug.LogWarning($"EnemyPathing: waveConfig '{waveConfig.name}' returned no waypoints; destroying enemy.");
+            Destroy(gameObject);
+        }
     }
 
     private void Move()

@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class BackgroundScroller : MonoBehaviour
 {
-    [SerializeField] float backgroundScrollSpeed = 0.5f;
+    [SerializeField] float backgroundScrollSpeed = 0.5f; // base uvs/sec
+    [Header("Tuning")]
+    [Tooltip("Global multiplier for background scroll speed. Use this to quickly tweak scene movement.")]
+    [SerializeField] float speedMultiplier = 9f;
     Material myMaterial;
     Vector2 offset;
     bool stop = false;
@@ -32,7 +35,12 @@ public class BackgroundScroller : MonoBehaviour
 
     private void Roll()
     {
-        myMaterial.mainTextureOffset += offset * Time.deltaTime;
+        myMaterial.mainTextureOffset += offset * Time.deltaTime * speedMultiplier;
+    }
+
+    public void SetSpeedMultiplier(float multiplier)
+    {
+        speedMultiplier = Mathf.Max(0f, multiplier);
     }
 
     public void Reset()

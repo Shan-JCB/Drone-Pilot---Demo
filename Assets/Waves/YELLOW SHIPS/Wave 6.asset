@@ -4,7 +4,8 @@
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,9 +13,9 @@ MonoBehaviour:
   m_Name: Wave 6
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 1510528580256050, guid: fa253b7ed0d6ec144b83050975571980,
-    type: 2}
-  pathPrefab: {fileID: 1042935247463524, guid: 4cc9318acf631da4f95d47da264a7d80, type: 2}
+    type: 3}
+  pathPrefab: {fileID: 1042935247463524, guid: 4cc9318acf631da4f95d47da264a7d80, type: 3}
   timeBetweenSpawns: 0.5
   spawnRandomFactor: 0.3
   moveSpeed: 6
-  numberOfEnemies: 5
+  numberOfEnemies: 3
